@@ -1,0 +1,15 @@
+/*#contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}*/
+
+
+/* ejemplo 2 */
+
+#contenedor {
+    margin: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
